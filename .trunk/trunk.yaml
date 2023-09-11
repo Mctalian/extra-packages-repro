@@ -1,6 +1,6 @@
 version: 0.1
 cli:
-  version: 1.14.1
+  version: 1.15.0
 repo:
   trunk_branch: refs/remotes/origin/main
 plugins:
